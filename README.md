@@ -1,10 +1,10 @@
 <div align="center">
 
-# 📚 文献接力
+# 📚 ScholarRelay文献接力
 
-**ScholarRelay — 法学论文写作工作流**
+**崭新的法学论文写作工作流**
 
-学校 VPN 里的文献 AI 拿不到——那一棒交给人，其余全程由 AI 接力
+学校webVPN 里的文献 AI 拿不到——那一棒交给人，其余全程由 AI 接力
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
